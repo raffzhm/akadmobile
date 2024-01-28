@@ -1,6 +1,6 @@
 # akadmobile
 
-Tugas 1.
+Simple CRUD Flutter with XAMPP Rest API codeigniter4
 
 ## Getting Started
 
